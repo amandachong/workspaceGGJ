@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Skyline/SkylineManager.cs">
+    <Files>
+      <File FileName="Assets/Runner/Runner.cs" Line="6" Column="39" />
+      <File FileName="Assets/Skyline/SkylineManager.cs" Line="29" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Jeff2/git/ggj2014/GGJ2014/Assets/Skyline/SkylineManager.cs" line="25" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
